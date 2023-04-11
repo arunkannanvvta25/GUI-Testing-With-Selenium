@@ -1,0 +1,29 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü¿Ìøÿÿÿÿ8Ë’‘Áö0
+h
+java:S11921"FDefine a constant instead of duplicating this literal "price" 5 times.(¥Ï‰åúÿÿÿÿ8á¤²Áö0
+e
+java:S1192A"HDefine a constant instead of duplicating this literal "maxSize" 4 times.(¼ãÆé8á¤²Áö0
+7
+java:S1220""Move this file to a named package.8Ë’‘Áö0
+O
+java:S1199'"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8æ£¤Áö0
+O
+java:S1199,"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ä¤²Áö0
+O
+java:S11990"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ä¤²Áö0
+O
+java:S11995"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ä¤²Áö0
+O
+java:S1199:"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ä¤²Áö0
+O
+java:S1199C"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ä¤²Áö0
+i
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(¶š¹ 8Ä³æÈö0
+p
+java:S1450"SRemove the "vars" field and declare it as a local variable in the relevant methods.(Á‘¿¼8Ï’‘Áö0
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶š¹ 8Ñ’‘Áö0
+]	java:S125"<This block of commented-out lines of code should be removed.(°çÊœùÿÿÿÿ8ÊãÈö0
+E
+java:S1068"(Remove this unused "vars" private field.(Á‘¿¼8Õ’‘Áö0

@@ -1,0 +1,28 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü¿Ìøÿÿÿÿ
+e
+java:S1192;"HDefine a constant instead of duplicating this literal "maxSize" 4 times.(¼ãÆé8—ïÂÌö0
+a
+java:S1192+"FDefine a constant instead of duplicating this literal "price" 5 times.(¥Ï‰åúÿÿÿÿ
+7
+java:S1220""Move this file to a named package.8æÞø¼ö0
+H
+java:S1199&"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+H
+java:S1199*"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+H
+java:S1199/"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+H
+java:S11994"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+O
+java:S1199="-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8˜ïÂÌö0
+i
+java:S1450"SRemove the "vars" field and declare it as a local variable in the relevant methods.(Á‘¿¼
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô›ŽÊ8ªÿ¬Èö0
+[
+java:S1128"9Remove this unused import 'org.hamcrest.CoreMatchers.is'.(Á†”©øÿÿÿÿ8ÐÀ®Èö0
+Z
+java:S1128"8Remove this unused import 'org.hamcrest.core.IsNot.not'.(ˆ´ËÚÿÿÿÿÿ8ÐÀ®Èö0
+>
+java:S1068"(Remove this unused "vars" private field.(Á‘¿¼

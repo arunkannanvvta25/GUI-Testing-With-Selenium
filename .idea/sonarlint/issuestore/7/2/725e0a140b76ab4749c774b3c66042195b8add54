@@ -1,0 +1,12 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü¿Ìøÿÿÿÿ8¯®Â½ö0
+7
+java:S1220""Move this file to a named package.8¯®Â½ö0
+p
+java:S1450"SRemove the "vars" field and declare it as a local variable in the relevant methods.(Á‘¿¼8¶®Â½ö0
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿèÙòüÿÿÿÿ8¹®Â½ö0
+G
+java:S5960 "+Remove this assertion from production code.(•ËÉo8¾®Â½ö0
+E
+java:S1068"(Remove this unused "vars" private field.(Á‘¿¼8¾®Â½ö0
